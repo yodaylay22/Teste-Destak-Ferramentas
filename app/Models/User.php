@@ -13,8 +13,9 @@ use Illuminate\Notifications\Notifiable;
 
 // Filament
 use Filament\Panel;
+use Filament\Models\Contracts\FilamentUser;
 
-class User extends Authenticatable
+class User extends Authenticatable implements FilamentUser
 {
     use HasFactory, Notifiable;
 
