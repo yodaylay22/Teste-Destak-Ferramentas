@@ -3,6 +3,12 @@
 Este é um projeto de teste para a **Destak Ferramentas**. 
 Seu principal objetivo é a integração Oauth2 e cadastro de produtos com a API do Mercado Livre.
 
+#Fotos:
+![image](https://github.com/user-attachments/assets/c2a79d3a-56c4-4e6a-906f-eddb52d7e4d5)
+![image](https://github.com/user-attachments/assets/dea6fff4-bc95-48e0-a215-2cdfa2b529d8)
+![image](https://github.com/user-attachments/assets/a4bc2c99-3e8b-4a1e-95f6-14007841f4d0)
+![image](https://github.com/user-attachments/assets/5bd8a8a8-d1d6-40b2-8be1-bc1409a05597)
+
 Abaixo estão as instruções para instalar e rodar o projeto localmente.
 
 ## Requisitos
