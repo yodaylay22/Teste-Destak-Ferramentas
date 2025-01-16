@@ -3,6 +3,11 @@
 Este é um projeto de teste para a **Destak Ferramentas**. 
 Seu principal objetivo é a integração Oauth2 e cadastro de produtos com a API do Mercado Livre.
 
+## Testar Online
+
+Se você deseja testar a aplicação online, basta acessar o seguinte link:
+[**Destak Ferramentas - Teste Online**](https://destak.yurieloi.my)
+
 # Fotos:
 ![image](https://github.com/user-attachments/assets/c2a79d3a-56c4-4e6a-906f-eddb52d7e4d5)
 ![image](https://github.com/user-attachments/assets/dea6fff4-bc95-48e0-a215-2cdfa2b529d8)
