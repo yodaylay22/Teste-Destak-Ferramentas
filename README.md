@@ -7,7 +7,10 @@ Seu principal objetivo é a integração Oauth2 e cadastro de produtos com a API
 
 Se você deseja testar a aplicação online, basta acessar o seguinte link:
 [**Destak Ferramentas - Teste Online**](https://destak.yurieloi.my)
+
 **Faça login utilizando o botão do Mercado Livre**
+
+[Link para ver os produtos cadastrados no Mercado Livre](https://www.mercadolivre.com.br/anuncios)
 
 
 # Fotos:
